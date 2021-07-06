@@ -2,7 +2,7 @@
 
 :root {
   --white-color: #fff;
-  --dark-color: #1c2042;
+  --dark-color: #7d0dbe;
 
   --cell-size: 100px;
   --mark-size: calc(var(--cell-size) * 0.9);
