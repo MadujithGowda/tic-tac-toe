@@ -24,10 +24,20 @@ body {
   font-family: 'Poppins', sans-serif;
   background-color: var(--dark-color);
 }
+h1{
+  text-align: center;
+  color: #fff;
+  margin-top:60px;
+ 
+}
+h5{
+  text-align: center;
+  color: #fff;
+}
 
 .board {
   width: 100vw;
-  height: 100vh;
+  height: 80vh;
   display: grid;
   justify-content: center;
   align-content: center;
